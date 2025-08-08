@@ -27,7 +27,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mayur-zinjrute-81451433a/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;
   <a href="tel:+918421723224" title="Call Me">
